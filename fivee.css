@@ -1,0 +1,146 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+  body{
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+  }
+.main{
+    width:100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images.jpg);
+    background-position: center;
+   
+    background-size: cover;
+    height: 109vh;
+
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+.icon{
+    width:200px;
+    float:left;
+    height: 70px;
+    font-family: Arial;
+}
+.logo{
+    color:rgb(231, 23, 23);
+font-size: 35px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 20px;
+float:left;
+padding-top: 10px;
+}
+.logo1{
+    width: 900px;
+    height: 50px;
+    border: 1px solid none;
+    color:white;
+font-size: 35px;
+font-family: Arial;
+padding-left: 300px;
+
+padding-top: 230px;
+}
+.sign{
+    position:absolute;
+    height: 20px;
+    width: 50px;
+    border: none;
+    border-radius: 2px;
+ margin-left: 1150px;
+ margin-top: 15px;
+background-color: red;
+color: white;
+text-align: center;
+padding: 5px;
+cursor: pointer;
+font-family: Arial;
+}
+.ucxo{
+    position:absolute;
+    font-family: Arial;
+    height: 30px;
+    width: 95px;
+    border-color: white;
+    border-radius: 2px;
+ margin-left: 850px;
+ margin-top: 15px;
+background-color: red;
+color: white;
+text-align: center;
+padding: 5px;
+cursor: pointer;
+background: url('http://3.bp.blogspot.com/-4w14hQHr5yQ/Tgm6u7KwUkI/AAAAAAAACAI/Hu2poBOPx3g/s25/search.png') no-repeat scroll 0 50%;
+
+}
+
+
+.sign a{
+    text-decoration: none;
+    color:white;
+}
+.emaill{
+    position: absolute;
+height: 550px;
+width: 450px;
+border: 1px solid black;
+top:45px;
+margin-left: 25%;
+background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+}
+.email{
+    position: absolute;
+    height: 40px;
+    width: 300px;
+    top:150px;
+    margin-left: 70px;
+    background-color:rgb(88, 85, 85)
+   
+}
+.pasword{
+    position: absolute;
+    height: 40px;
+    width: 300px;
+    top:230px;
+    margin-left: 70px;
+    background-color:rgb(88, 85, 85)
+   
+}
+.is{
+    position: absolute;
+    height: 40px;
+    width: 300px;
+    top:310px;
+    margin-left: 70px;
+    background-color:rgb(241, 9, 9);
+    text-align: center;
+}
+.iss{
+    position: absolute;
+   margin-top: 10px;
+  margin-left: 39%;
+  color: white;
+}
+.iss a{
+    text-decoration: none;
+    color: white;
+}
+.isss{
+    margin-top: 55px;
+    margin-left: 35px;
+    color: white;
+    font-size: 35px;
+}
+.check{
+    margin-top: 280px;
+    margin-left: 70px;
+    color: white;
+}
+.option{
+    background-color: rgb(116, 148, 137);
+}

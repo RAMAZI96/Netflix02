@@ -1,0 +1,202 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+  body{
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+  }
+.main{
+    width:100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(images.jpg);
+    background-position: center;
+   
+    background-size: cover;
+    height: 109vh;
+
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+.icon{
+    width:200px;
+    float:left;
+    height: 70px;
+    font-family: Arial;
+}
+.logo{
+    color:rgb(231, 23, 23);
+font-size: 35px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 20px;
+float:left;
+padding-top: 10px;
+}
+.logo1{
+    width: 900px;
+    height: 50px;
+    border: 1px solid none;
+    color:white;
+font-size: 35px;
+font-family: Arial;
+padding-left: 300px;
+
+padding-top: 230px;
+}
+.sign{
+    position:absolute;
+    height: 20px;
+    width: 50px;
+    border: none;
+    border-radius: 2px;
+ margin-left: 1150px;
+ margin-top: 15px;
+background-color: red;
+color: white;
+text-align: center;
+padding: 5px;
+cursor: pointer;
+font-family: Arial;
+}
+.sign a{
+    text-decoration: none;
+    color:white;
+}
+.ucxo{
+    position:absolute;
+    font-family: Arial;
+    height: 30px;
+    width: 95px;
+    border-color: white;
+    border-radius: 2px;
+ margin-left: 850px;
+ margin-top: 15px;
+background-color: red;
+color: white;
+text-align: center;
+padding: 5px;
+cursor: pointer;
+background: url('http://3.bp.blogspot.com/-4w14hQHr5yQ/Tgm6u7KwUkI/AAAAAAAACAI/Hu2poBOPx3g/s25/search.png') no-repeat scroll 0 50%;
+
+}
+.option{
+    background-color: rgb(116, 148, 137);
+}
+.email{
+    height: 20px;
+    width: 400px;
+   padding: 12px;
+   margin-top: 200px;
+}
+.get{
+    position:absolute;
+    height: 23px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+ margin-left:427px;
+ margin-top:-48px;
+background-color: red;
+color: white;
+text-align: center;
+padding: 13px;
+cursor: pointer;
+}
+.orive{
+    margin-left: 300px;
+}
+.pirveli{
+    margin-left: 35px; 
+}
+.meore{
+    margin-left: 75px;
+}
+.mesame{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.meotxe{
+    margin-left: -80px;
+    margin-top: 35px;
+}
+.xazi1{
+    height: 10px;
+    background-color: rgb(116, 113, 109);
+}
+.xazi11{
+    color: white;
+    font-family: Arial;
+    margin-top: 270px;
+    margin-left: 200px;
+ font-size: 22px;
+}
+.xazi111{
+    height: 10px;
+    background-color: rgb(116, 113, 109);
+}
+.image1{
+    height: 200px;
+    margin-left: 730px;
+    margin-top: -175px;
+   
+}
+.xazi22{
+    color: white;
+    font-family: Arial;
+    margin-top: 165px;
+    margin-left: 800px;
+    font-size: 22px;
+}
+.image2{
+    height: 200px;
+    margin-left: -600px;
+    margin-top: -135px;
+}
+.image3{
+    height: 200px;
+    width: 280px;
+    margin-left: 730px;
+    margin-top:-175px; 
+}
+.contact1{
+    
+    font-family: Arial;
+    margin-top: 110px;
+    margin-left: 200px;
+}
+.contact2{
+    
+    font-family: Arial;
+    margin-top: -120px;
+    margin-left: 800px;
+}
+ul{
+    float:center;
+    display:block;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
+    list-style:none;
+   margin-left: 62px;
+    margin-top:7px;
+    font-size:15px
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(134, 132, 132);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+.contact{
+ position: absolute;
+    color: rgb(134, 132, 132);
+    margin-top: 30px;
+   margin-left: 40%;
+   font-size: 20px;
+}
